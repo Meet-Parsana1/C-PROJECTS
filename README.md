@@ -37,6 +37,6 @@ I’m actively working on expanding this repository with new and exciting C proj
 - 🛠️ Written in standard C language using basic libraries
 - ✅ Each project is tested and runnable in terminal/command-line
 
----
+
 
 
